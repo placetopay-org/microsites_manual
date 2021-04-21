@@ -569,6 +569,9 @@ La opción de ***Diseño de los campos*** de los micrositios abiertos también c
 Solo basta con seleccionar lo que se desee hacer y se obtiene como resultado:
 
 ***Campos por defecto***
+
+Los campos relacionados con el pagador como tipo de documento, documento, nombre, apellido y correo electrónico no son campos obligatorios, si no desea solicitar estos datos los puede eliminar del formulario.
+
 ![microsites](../../images_folder/administrator/resources/Microsites/defFieldLayout.png)
 
 ***Campos mínimos***
