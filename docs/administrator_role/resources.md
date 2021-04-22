@@ -570,7 +570,7 @@ Solo basta con seleccionar lo que se desee hacer y se obtiene como resultado:
 
 ***Campos por defecto***
 
-Los campos relacionados con el pagador como tipo de documento, documento, nombre, apellido y correo electrónico no son campos obligatorios, si no desea solicitar estos datos los puede eliminar del formulario.
+Los campos relacionados con el pagador como tipo de documento, documento, nombre, apellido y correo electrónico no son campos obligatorios, si no desea solicitar estos datos los puede eliminar del formulario, se debe tener en cuenta que si elimina alguno de estos campos tambien debe eliminar los demás campos relacionados con el pagador.
 
 ![microsites](../../images_folder/administrator/resources/Microsites/defFieldLayout.png)
 
